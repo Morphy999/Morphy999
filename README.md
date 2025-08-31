@@ -42,8 +42,8 @@ My goal is to transform research and prototypes into practical solutions that cr
 ---
 
 ## 🌟 Featured Projects
-- 🔎 **[RAG with Llama 3](https://github.com/Morphy999/rag-llm)** – Retrieval-Augmented Generation system for intelligent information retrieval.
-- 🤖 **[LLM from scratch](https://github.com/Morphy999/agente-ia)** – Building a Large Language Model from scratch, fine-tuned for classification and instruction following.
+- 🔎 **[RAG with Llama 3](https://github.com/Morphy999/LocalRag)** – Retrieval-Augmented Generation system for intelligent information retrieval.
+- 🤖 **[LLM from scratch](https://github.com/Morphy999/LLMPlayground)** – Building a Large Language Model from scratch, fine-tuned for classification and instruction following.
 ---
 
 ## 📊 GitHub Stats
