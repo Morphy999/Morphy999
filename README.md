@@ -48,7 +48,6 @@ My goal is to transform research and prototypes into practical solutions that cr
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Morphy999&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morphy999&layout=compact&theme=radical)
 
 ---
 
