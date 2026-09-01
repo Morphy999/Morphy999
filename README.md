@@ -9,7 +9,7 @@ My goal is to transform research and prototypes into practical solutions that cr
 -  I work with **Applied Machine Learning**, from **classical models** to **deep neural networks**.  
 -  Experience with **LLMs** (fine-tuning, instruction, and classification) and **multimodal RAG systems**.  
 -  Interested in **Autonomous Agents** and **Few-Shot Learning**.  
--  Currently studying **FAISS**, **LLM**, **RAG**.  
+-  Currently studying **FAISS**, **LLM**, **RAG**, **CUDA**.  
 
 ---
 
